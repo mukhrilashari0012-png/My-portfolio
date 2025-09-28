@@ -116,7 +116,7 @@ header img {
 <body>
 
   <header>
-    <img src="1758600587885.png" alt="Your Photo">
+    <img src="Snapchat-507995795.png" alt="Your Photo">
     <h1>Mukhri Abdul Khalique</h1>
     <p>Frontend Developer | Cybersecurity Enthusiast</p>
     <a href="https://www.linkedin.com/in/mukhri-abdul-khalique" target="_blank" class="linkedin-btn">View LinkedIn Profile</a>
