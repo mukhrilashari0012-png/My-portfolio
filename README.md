@@ -172,7 +172,7 @@ header img {
   </section>
 <section id="Certifications=">
     <h2>Certifications</h2>
-    <div class="Certifications">
+    <div class="card">
      <li> <span> Foundations of Cybersecurity (Google)</span> </li>
      <li> <span>Play It Safe: Manage Security Risks</span> </li>
      <li> <span>Connect and Protect: Networks and Network Security</span></li>
