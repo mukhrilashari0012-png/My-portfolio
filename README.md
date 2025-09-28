@@ -127,6 +127,7 @@ header img {
     <a href="#experience">Experience</a>
     <a href="#education">Education</a>
     <a href="#skills">Skills</a>
+	<a href="#skills">Certifications</a>
     <a href="#contact">Contact</a>
   </nav>
 
