@@ -169,6 +169,16 @@ header img {
       <span>Responsive Design</span>
     </div>
   </section>
+<section id="Certifications=">
+    <h2>Certifications</h2>
+    <div class="Certifications">
+      <span> Foundations of Cybersecurity (Google)</span>
+      <span>Play It Safe: Manage Security Risks</span>
+      <span>Connect and Protect: Networks and Network Security</span>
+      <span> Tools of the Trade: Linux and SQL</span>
+    </div>
+  </section>
+
 
   <section id="contact">
     <h2>Contact</h2>
